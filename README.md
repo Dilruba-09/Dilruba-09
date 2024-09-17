@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Dilruba-09
-- 👀 I’m interested in Aritificial Intelligence.
-- 🌱 I’m currently learning C++.
+- 👋 Hi, I’m Hassan.
+- 👀 I’m interested in Machine Learning.
+- 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 You can contact me on dilruba93r@gmail.com
 - 😄 Pronouns: her
